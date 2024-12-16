@@ -1,5 +1,5 @@
 # better-health-education: 
-This website is for educational purpose,focusing on health and wellness.
+This website is for educational purpose, focusing on health and wellness.
 ## Features: 
 Educational resources about health and wellness.
 ## Purpose: 
