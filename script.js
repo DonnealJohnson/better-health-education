@@ -1,0 +1,2 @@
+var firstName = prompt("What is your firstName?");
+alert("Hello " + firstName + "! " + "Take the first step toward taken control of your health and wellness. Sign up today and become the best version of yourself.");
